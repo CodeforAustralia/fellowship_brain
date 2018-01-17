@@ -31,7 +31,7 @@
 
 - codeforaustralia.slack.com: @mcsteven
 - currently mentoring: dscv
-- [previously](../archives/README.md) mentored: DSCV (2017)
+- [previously](archives/README.md) mentored: DSCV (2017)
 - ask me about:
   - Zendesk mentoring
   - agile software development
