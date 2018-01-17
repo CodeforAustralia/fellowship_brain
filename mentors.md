@@ -22,3 +22,14 @@
   - engineering issues
   - documentation
   
+
+# Lyndsey Woo
+
+- codeforaustralia.slack.com: @lyndsey
+- currently mentoring: everyone via slack
+- ask me about:
+  - Anything about project management (agile or otherwise) 
+  - stakeholder engagement and management
+  - project communication
+  - Identifying and mitigating risks and dependencies
+  
