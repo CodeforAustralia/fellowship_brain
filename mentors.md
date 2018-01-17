@@ -12,4 +12,13 @@
 
 -->
 
-coming soon
+# Briana Coppard
+
+- codeforaustralia.slack.com: @Briana Coppard
+- currently mentoring: delwp
+- ask me about:
+  - agile software development
+  - story planning
+  - engineering issues
+  - documentation
+  
