@@ -20,8 +20,3 @@ content will be added against these initial topics as mentoring time permits
 
   - [coming soon] [meet the current mentors](./mentors.md)
   - [in progress] [previous cohorts](./archives/README.md) contains project briefs, meeting minutes from previous fellowship groups
-
-# How to contribute
-
-- Open an issue requesting clarification of an existing topic, or information on a new topic
-- Open a pull request with proposed changes and seek a peer review from other fellows and mentors
