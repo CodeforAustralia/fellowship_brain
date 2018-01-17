@@ -21,15 +21,22 @@
   - story planning
   - engineering issues
   - documentation
-  
+
+# Nick Dawbarn
+
+- codeforaustralia.slack.com: @dawbs
+- currently mentoring: everyone via slack
+- ask me about:
+  - infrastructure/systems
+  - interacting with government IT
+  - architecture
 
 # Lyndsey Woo
 
 - codeforaustralia.slack.com: @lyndsey
 - currently mentoring: everyone via slack
 - ask me about:
-  - Anything about project management (agile or otherwise) 
+  - Anything about project management (agile or otherwise)
   - stakeholder engagement and management
   - project communication
   - Identifying and mitigating risks and dependencies
-  
