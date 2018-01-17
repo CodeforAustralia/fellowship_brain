@@ -34,7 +34,7 @@
 # Lyndsey Woo
 
 - codeforaustralia.slack.com: @lyndsey
-- currently mentoring: everyone via slack
+- currently mentoring: vicroads
 - ask me about:
   - Anything about project management (agile or otherwise)
   - stakeholder engagement and management
