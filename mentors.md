@@ -17,6 +17,16 @@
   - interacting with government IT
   - architecture
 
+# Daniel Bogan (yes, really)
+
+- codeforaustralia.slack.com: @waferbaby
+- currently mentoring: everyone via slack
+- ask me about:
+  - backend development
+  - architecture
+  - documentation
+  - dogs
+
 # Lyndsey Woo
 
 - codeforaustralia.slack.com: @lyndsey
