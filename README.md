@@ -18,5 +18,5 @@ content will be added against these initial topics as mentoring time permits
 
 # Who
 
-  - [coming soon] [meet the current mentors](./mentors.md)
-  - [in progress] [previous cohorts](./archives/README.md) contains project briefs, meeting minutes from previous fellowship groups
+  - :construction: [meet the current mentors](./mentors.md)
+  - :construction: [previous cohorts](./archives/README.md) contains project briefs, meeting minutes from previous fellowship groups
